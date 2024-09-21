@@ -2,7 +2,10 @@
 
 Train and Test Data
 
-quad_1.csv is train data for the model and quad_2_3_4.csv is test data for the model.
+quad_1.csv is train data for the model 
+
+quad_2_3_4.csv is test data for the model.
+
 support_vector.ipynb is the python script used to train and test the model.
 
 ![Screenshot 2024-09-21 200617](https://github.com/user-attachments/assets/5d004361-bd97-48b7-a6e0-7482d79f1c79)
